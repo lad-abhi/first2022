@@ -1,0 +1,43 @@
+h1{
+    background-color: rgba(19, 15, 15, 0.897);
+    text-align: center;
+    color: white;
+}
+
+h2{
+    /* background-color: whitesmoke; */
+    text-align: center;
+    color: white;
+}
+
+h3{
+    /* background-color: whitesmoke; */
+    text-align: center;
+    color: rgb(12, 8, 8);
+}
+
+.first_image{
+    background-image: url(marcelo-cidrack-HME4dq3FCeI-unsplash.jpg );
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sec_image{
+    background-image: url(road_blur_night_bus_england_london_black_and_white_street_city_exposure_timelapse_2560x1600.jpg);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.third_image{
+    background-image: url(severin-candrian-Qhpuw3lNVpQ-unsplash.jpg);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
